@@ -1,0 +1,1 @@
+make test WHAT=./staging/src/k8s.io/legacy-cloud-providers/azure GOFLAGS="-v" 
